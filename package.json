@@ -1,0 +1,10 @@
+{
+  "name": "eslint-plugin-chatshipper",
+  "version": "1.0.0",
+  "author": {
+    "name": "Carlos Perilla",
+    "email": "carlos@chatshipper.com"
+  },
+  "description": "Chatshipper custom eslint rules.",
+  "main": "lib/index.js"
+}
