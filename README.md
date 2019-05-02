@@ -5,7 +5,7 @@
 Add the plugin using npm or yarn:
 
 ```bash
-$ npm install git+https://github.com/chatshipper/estlint-plugin-chatshipper
+$ npm install git+https://github.com/chatshipper/estlint-plugin-chatshipper#master
 ```
 
 ## How to configure
